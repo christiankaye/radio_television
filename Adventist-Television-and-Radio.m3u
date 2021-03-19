@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="3ABN" tvg-id="3ABN" group-title="3ABN",3ABN
+https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
+
+#EXTINF:-1 tvg-name="3ABN International" tvg-id="3ABN" group-title="3ABN",3ABN International
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
+
+#EXTINF:-1 tvg-name="3ABN Kids" tvg-id="3ABN" group-title="3ABN",3ABN Kids
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+
+#EXTINF:-1 tvg-name="3ABN Latino" tvg-id="3ABN" group-title="3ABN",3ABN Latino
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+
+#EXTINF:-1 tvg-name="3ABN Praise Him Music Channel" tvg-id="3ABN" group-title="3ABN",3ABN Praise Him Music Channel
+https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
+
+#EXTINF:-1 tvg-name="3ABN Proclaim!" tvg-id="3ABN" group-title="3ABN",3ABN Proclaim!
+https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
+
+#EXTINF:-1 tvg-name="3ABN Radio" tvg-id="3ABN" group-title="3ABN",3ABN Radio
+https://war.streamguys1.com:7185/live
+
+#EXTINF:-1 tvg-name="3ABN Radio Latino" tvg-id="3ABN" group-title="3ABN",3ABN Radio Latino
+https://war.streamguys1.com:7185/Latino
+
+#EXTINF:-1 tvg-name="3ABN Radio Music Channel" tvg-id="3ABN" group-title="3ABN",3ABN Radio Music Channel
+https://war.streamguys1.com:7185/MC01
+
+#EXTINF:-1,tvg-name="Amazing Discoveries" tvg-id="Amazing Discoveries" group-title="Amazing Discoveries",Amazing Discoveries
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w1718132144.m3u8
+
+tvg-name="Amazing Facts Radio" tvg-id="Amazing Facts Radio" group-title="Amazing Facts",Amazing Facts Radio
+https://stream.radio.co/sbdda28f12/listen
+
+#EXTINF:-1,tvg-name="Amazing Facts Television" tvg-id="Amazing Facts Television" group-title="Amazing Facts",Amazing Facts Television
+https://youtu.be/3QRFgeyW9VE
+
+#EXTINF:-1 tvg-name="Better Health TV" tvg-id="Better Health TV" group-title="Better Life",Better Health TV
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Better Life TV" tvg-id="Better Life TV" group-title="Better Life",Better Life TV
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Better Nature TV" tvg-id="Better Nature TV" group-title="Better Life",Better Nature TV
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Blue Mountain TV" tvg-id="Blue Mountain TV" group-title="Blue Mountain",Blue Mountain TV
+http://bmtsp.videocdn.scaleengine.net/bmtsp-iphone/play/bmtsp.smil/chunklist_w947520701_b819200.m3u8
+
+#EXTINF:-1 tvg-name="Blue Mountain Blue Mountain TV en Español" tvg-id="Blue Mountain Blue Mountain TV en Español" group-title="Blue Mountain",Blue Mountain TV en Español
+http://bmtsp.videocdn.scaleengine.net/bmtsp-iphone/play/bmtsp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Dare To Dream Network" tvg-id="Dare To Dream Network" group-title="3ABN",Dare To Dream Network
+https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
+
+#EXTINF:-1 tvg-name="El TV" tvg-id="El TV" group-title="El TV",El TV
+http://streamer1.streamhost.org/salive/eltvH/chunklist_w1417448397.m3u8
+
+#EXTINF:-1 tvg-name="Firstlight Broadcasting Network" tvg-id="Firstlight Broadcasting Network" group-title="3Firstlight Broadcasting Network
+https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/chunklist_w1831261549_b900000_slen.m3u8
+
+#EXTINF:-1 tvg-name="Life Style TV" tvg-id="Life Style TV" group-title="Life Style TV",Life Style TV
+http://stream1.lifestyletv.se:443/live/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Loma Linda Broadcasting Network HIS LIGHT" tvg-id="Loma Linda Broadcasting Network HIS LIGHT TV" group-title="LLBN",Loma Linda Broadcasting Network HIS LIGHT
+https://t01587-lh.akamaihd.net/i/t01587HisLight_1@692073/index_800_av-p.m3u8
+
+#EXTINF:-1 tvg-name="Loma Linda Broadcasting Network HIS WORD" tvg-id="Loma Linda Broadcasting Network - HIS WORD TV" group-title="LLBN",Loma Linda Broadcasting Network HIS WORD
+https://t01587-lh.akamaihd.net/i/t01587HisWord_1@692072/index_800_av-p.m3u8
+
+#EXTINF:-1,Loma Linda Broadcasting Network Latino TV
+#EXTINF:-1 tvg-name="Loma Linda Broadcasting Network Latino TV" tvg-id="Loma Linda Broadcasting Network Latino TV TV" group-title="LLBN",Loma Linda Broadcasting Network Latino TV
+https://t01587-lh.akamaihd.net/i/t01587Latino_1@692077/index_1200_av-p.m3u8
+
+#EXTINF:-1,LOGOS Radio
+#EXTINF:-1 tvg-name="LOGOS Radio" tvg-id="LOGOS Radio" group-title="LOGOS",LOGOS Radio
+https://streamer1.streamhost.org/salive/logosa/playlist.m3u8
+
+#EXTINF:-1 tvg-name="LOGOS TV" tvg-id="LOGOS TV" group-title="LOGOS",LOGOS TV
+https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
+
+#EXTINF:-1 tvg-name="LOGOS TV Estudio" tvg-id="LOGOS TV Estudio" group-title="LOGOS",LOGOS TV Estudio
+https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
+
+#EXTINF:-1 tvg-name="LOGOS TV Kids" tvg-id="LOGOS TV Kids" group-title="LOGOS",LOGOS TV Kids
+https://streamer1.streamhost.org/salive/logoskidsH/master.m3u8
+
+#EXTINF:-1 tvg-name="LOGOS TV Radio" tvg-id="LOGOS TV Radio" group-title="LOGOS",LOGOS TV Radio
+https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
+
+#EXTINF:-1 tvg-name="LOGOS TV Salud" tvg-id="LOGOS TV Salud" group-title="LOGOS",LOGOS TV Salud
+https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mission TV - HD" tvg-id="Mission TV - HD" group-title="Mission TV ",Mission TV - HD
+http://stream.missiontv.com:1935/live/missiontv_720p/master.m3u8
+
+#EXTINF:-1 tvg-name="Mission TV - SD" tvg-id="Mission TV - SD" group-title="Mission TV ",Mission TV - SD
+http://stream.missiontv.com:1935/live/missiontv_360p/master.m3u8
+
+#EXTINF:-1 tvg-name="Paraiso TV" tvg-id="Paraiso TV" group-title="Paraiso",Paraiso TV
+http://wow.eleden.com/livewtpm/livestream/playlist.m3u8
+
+#EXTINF:-1,Radio ADvenir
+#EXTINF:-1 tvg-name="Radio ADvenir" tvg-id="Radio ADvenir" group-title="Radio ADvenir",Radio ADvenir
+https://www.eleden.com/radioadvenir/radioadvenir.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio Altiplano" tvg-id="Radio Altiplano" group-title="Radio Altiplano",Radio Altiplano
+https://www.eleden.com/altiplano/altiplano.stream/playlist.m3u8
+
+#EXTINF:-1,Red ADvenir TV
+#EXTINF:-1 tvg-name="Red ADvenir TV" tvg-id="Red ADvenir TV" group-title="Red ADvenir TV",Red ADvenir TV
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Safe TV" tvg-id="Safe TV" group-title="Safe TV",Safe TV
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Salvacion TV" tvg-id="Salvacion TV" group-title="Salvacion TV",Salvacion TV
+http://wow.eleden.com/livesalvatv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Smart Lifestyle TV" tvg-id="Smart Lifestyle TV" group-title="Smart Lifestyle TV",Smart Lifestyle TV
+https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/master.m3u8
+
+#EXTINF:-1 tvg-name="SUM TV" tvg-id="SUM TV" group-title="SUM TV",SUM TV
+https://uni10rtmp.tulix.tv/ssstv1/smil:ssstv1web.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Vida Mejor" tvg-id="Vida Mejor" group-title="Vida Mejor",Vida Mejor
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
