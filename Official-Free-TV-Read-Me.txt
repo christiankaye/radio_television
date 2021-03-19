@@ -1,0 +1,66 @@
+"Watch Live TV for Free"
+
+What you need:
+- A tablet, phone or desktop pc
+- A Live TV app. (See below for details)
+
+The App:
+
+IOS - Apple App Store
+If you have an iPhone, try "IPTV Mediacenter." Copy and paste one of the links below to start playing live television. VLC Player also works.
+ 
+Android - Google Play
+Copy & paste  the link below into "GSE Smart IPTV" or "OTT Navigator IPTV"  to start playing live TV. Again, VLC Player also works. 
+(Try GSE Smart IPTV first)
+
+Desktop / Notebook PC
+Windows: Try VLC Player or IPTV (VLC player performs better)
+
+For a list of LIVE TV channels, have a look at:
+
+https://github.com/Free-IPTV/Countries
+
+For Linux Users:
+
+Hypnotix is an IPTV streaming application with support for live TV and movies.
+
+https://itsfoss.com/hypnotix-iptv-app/
+
+----------------------------------------------------------
+Need a TV guide? 
+Try the free "TV Listings and Guide Plus" or the "Lazy IPTV" app in the Google Play Store. 
+In the Apple App Store, try "TV Listings Plus."
+---------------------------------------------------------
+
+FREE Online Movies and Live Television:
+
+Live Television: 
+
+https://wwitv.com/television/248.htm
+
+Live Movies:
+
+IMPORTANT: You must first install an ad blocking browser extension, such as Ublock Origin. Ublock Origin is available for Chrome and Firefox. 
+
+Install the "Ublock Origin" add-on, then check out all the movies at:
+
+https://topchristianmovies.com/
+
+https://streamtopmovies.com/
+
+-----------  Christian Media ------------
+
+Watch Live Christian Television on your smartphone. 
+
+(English)
+
+http://www.iptvcristiano.com/
+
+(Spanish)
+http://www.iptvcristiano.com/
+
+Adventist Television and Radio:
+
+https://raw.githubusercontent.com/christiankaye/radio_television/main/Adventist-Television-and-Radio.m3u
+
+Or install the AdvenTV App for Android or IOS
