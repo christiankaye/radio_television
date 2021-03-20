@@ -1,2 +1,3 @@
 # radio_television
-iptv files
+Live Seventh-Day Adventist Television and Radio Stations
+100% Legal Streams
