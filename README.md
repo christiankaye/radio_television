@@ -1,3 +1,3 @@
 # radio_television
 Live Seventh-Day Adventist Television and Radio Stations
-100% Legal Streams
+- All streams are legally obtained and contain public content freely available online.
