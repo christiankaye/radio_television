@@ -26,13 +26,19 @@ https://war.streamguys1.com:7185/Latino
 #EXTINF:-1 tvg-name="3ABN Radio Music Channel" tvg-id="3ABN" group-title="3ABN",3ABN Radio Music Channel
 https://war.streamguys1.com:7185/MC01
 
-#EXTINF:-1,tvg-name="Amazing Discoveries" tvg-id="Amazing Discoveries" group-title="Amazing Discoveries",Amazing Discoveries
+#EXTINF:-1 tvg-name="Hope Channel" tvg-id="Hope Channel" group-title="Hope Channel",Hope Channel
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/5d6c7f68a82b4c4885014e6f813b7bd9/manifest.m3u8
+
+#EXTINF:-1 tvg-name="Hope Channel Esperanza TV" tvg-id="Hope Channel Esperanza TV" group-title="Hope Channel",Hope Channel Esperanza TV
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/manifest.m3u8
+
+#EXTINF:-1 tvg-name="Amazing Discoveries" tvg-id="Amazing Discoveries" group-title="Amazing Discoveries",Amazing Discoveries
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w1718132144.m3u8
 
-tvg-name="Amazing Facts Radio" tvg-id="Amazing Facts Radio" group-title="Amazing Facts",Amazing Facts Radio
+#EXTINF:-1 tvg-name="Amazing Facts Radio" tvg-id="Amazing Facts Radio" group-title="Amazing Facts",Amazing Facts Radio
 https://stream.radio.co/sbdda28f12/listen
 
-#EXTINF:-1,tvg-name="Amazing Facts Television" tvg-id="Amazing Facts Television" group-title="Amazing Facts",Amazing Facts Television
+#EXTINF:-1 tvg-name="Amazing Facts Television" tvg-id="Amazing Facts Television" group-title="Amazing Facts",Amazing Facts Television
 https://youtu.be/3QRFgeyW9VE
 
 #EXTINF:-1 tvg-name="Better Health TV" tvg-id="Better Health TV" group-title="Better Life",Better Health TV
@@ -45,10 +51,7 @@ http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
 http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Blue Mountain TV" tvg-id="Blue Mountain TV" group-title="Blue Mountain",Blue Mountain TV
-http://bmtsp.videocdn.scaleengine.net/bmtsp-iphone/play/bmtsp.smil/chunklist_w947520701_b819200.m3u8
-
-#EXTINF:-1 tvg-name="Blue Mountain Blue Mountain TV en Español" tvg-id="Blue Mountain Blue Mountain TV en Español" group-title="Blue Mountain",Blue Mountain TV en Español
-http://bmtsp.videocdn.scaleengine.net/bmtsp-iphone/play/bmtsp.smil/playlist.m3u8
+https://vse-na-us-sm72.secdn.net/bmt-live/play/bmt_3.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Dare To Dream Network" tvg-id="Dare To Dream Network" group-title="3ABN",Dare To Dream Network
 https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
@@ -68,11 +71,9 @@ https://t01587-lh.akamaihd.net/i/t01587HisLight_1@692073/index_800_av-p.m3u8
 #EXTINF:-1 tvg-name="Loma Linda Broadcasting Network HIS WORD" tvg-id="Loma Linda Broadcasting Network - HIS WORD TV" group-title="LLBN",Loma Linda Broadcasting Network HIS WORD
 https://t01587-lh.akamaihd.net/i/t01587HisWord_1@692072/index_800_av-p.m3u8
 
-#EXTINF:-1,Loma Linda Broadcasting Network Latino TV
 #EXTINF:-1 tvg-name="Loma Linda Broadcasting Network Latino TV" tvg-id="Loma Linda Broadcasting Network Latino TV TV" group-title="LLBN",Loma Linda Broadcasting Network Latino TV
 https://t01587-lh.akamaihd.net/i/t01587Latino_1@692077/index_1200_av-p.m3u8
 
-#EXTINF:-1,LOGOS Radio
 #EXTINF:-1 tvg-name="LOGOS Radio" tvg-id="LOGOS Radio" group-title="LOGOS",LOGOS Radio
 https://streamer1.streamhost.org/salive/logosa/playlist.m3u8
 
@@ -100,14 +101,12 @@ http://stream.missiontv.com:1935/live/missiontv_360p/master.m3u8
 #EXTINF:-1 tvg-name="Paraiso TV" tvg-id="Paraiso TV" group-title="Paraiso",Paraiso TV
 http://wow.eleden.com/livewtpm/livestream/playlist.m3u8
 
-#EXTINF:-1,Radio ADvenir
 #EXTINF:-1 tvg-name="Radio ADvenir" tvg-id="Radio ADvenir" group-title="Radio ADvenir",Radio ADvenir
 https://www.eleden.com/radioadvenir/radioadvenir.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Radio Altiplano" tvg-id="Radio Altiplano" group-title="Radio Altiplano",Radio Altiplano
 https://www.eleden.com/altiplano/altiplano.stream/playlist.m3u8
 
-#EXTINF:-1,Red ADvenir TV
 #EXTINF:-1 tvg-name="Red ADvenir TV" tvg-id="Red ADvenir TV" group-title="Red ADvenir TV",Red ADvenir TV
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 
