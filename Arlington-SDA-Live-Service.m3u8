@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Arlington SDA Church Live Service" tvg-name="Arlington SDA Church Live Service" tvg-logo="https://images.squarespace-cdn.com/content/58dc9b01b3db2bd051138ccd/1603156217456-258BVO7CHHSEE6WX1F2O/ASDA+LOGO+SQUARE.png?content-type=image%2Fpng" group-title="ASDA",Arlington SDA Church Live Service
-https://arlingtonsdac.streamsprk.com/live/live/index.m3u8
-
-#EXTINF:-1 tvg-id="Arlington SDA Church Live Service - Mobile" tvg-name="Arlington SDA Church Live Service" tvg-logo="https://images.squarespace-cdn.com/content/58dc9b01b3db2bd051138ccd/1603156217456-258BVO7CHHSEE6WX1F2O/ASDA+LOGO+SQUARE.png?content-type=image%2Fpng" group-title="ASDA",Arlington SDA Church Live Service - Mobile
-https://arlingtonsdac.streamsprk.com/mobile/live/index.m3u8
-
